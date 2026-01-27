@@ -15,8 +15,7 @@ Lenguajes:
 
 
 Idiomas:
-Español 🇪🇦
-
-Ingles 🇬🇧
+Español 
+Ingles
 
 
