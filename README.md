@@ -15,8 +15,8 @@
 
 
 Idiomas:
-Español<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/5d18f7db-4a2b-4228-9cfc-1c7fc76c6c62" />
+Español 🇪🇸
 
-Ingles<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d130f6bc-7072-4d12-a9ef-23bcb89b9af6" />
+Ingles 🇬🇧
 
 
